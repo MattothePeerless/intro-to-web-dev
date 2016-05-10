@@ -74,7 +74,7 @@ To run your angular application code, you need to include it using `<script>` ta
 
 You also need a little HTML to bootstrap the view.
 ```html
-<div ng-app="myApp"> <!-- Use you're app name -->
+<div ng-app="myApp"> <!-- Use your app name -->
   <div ng-view></div>
 </div>
 ```
